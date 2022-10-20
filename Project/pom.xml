@@ -4,6 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
         <dependency>
@@ -37,6 +38,8 @@
     </dependencies>
 
 
+=======
+>>>>>>> b05479fec90eac5867fd3f3c1f0c2e917448a933
     <groupId>org.example</groupId>
     <artifactId>Project</artifactId>
     <version>1.0-SNAPSHOT</version>
